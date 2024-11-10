@@ -5,7 +5,7 @@
 ### Instalar os pacotes abaixo e suas dependências:
 
 ```bash
-yum install kernel-devel make gcc
+yum install kernel-devel make cmake gcc git
 ```
 
 ### Para descompactar:
