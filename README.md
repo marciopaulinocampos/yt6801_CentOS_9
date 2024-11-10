@@ -1,4 +1,4 @@
-# yt6801_CentOS_9
+# Driver: YT6801 CentOS Stream 9
 ## Esse driver foi editado e corrigido para compilar no CentOS Stream 9
 ## O ideal é que tudo seja feito com permissões root.
 
